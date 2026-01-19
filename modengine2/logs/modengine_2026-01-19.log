@@ -388,3 +388,31 @@
 [2026-01-19 15:24:37.005] [modengine] [info] Destroying
 [2026-01-19 15:24:37.005] [modengine] [info] Destroying
 [2026-01-19 15:24:37.005] [modengine] [info] Destroying
+[2026-01-19 16:57:40.033] [modengine] [info] Attempting to load global config at C:\Program Files (x86)\ModEngine-2.1.0.0-win64\modengine2\config.toml
+[2026-01-19 16:57:40.033] [modengine] [info] Attempting to load mod settings config at C:\Program Files (x86)\ModEngine-2.1.0.0-win64\config_eldenring.toml
+[2026-01-19 16:57:40.034] [modengine] [info] Local config loaded
+[2026-01-19 16:57:40.034] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-01-19 16:57:40.034] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-01-19 16:57:40.034] [modengine] [info] Main thread ID: 36576
+[2026-01-19 16:57:40.036] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.dll
+[2026-01-19 16:57:40.037] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ermerchant.dll
+[2026-01-19 16:57:40.114] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\Scripts-Data-Exposer-FS.dll
+[2026-01-19 16:57:40.114] [modengine] [warning] External dll C:\Program Files (x86)\ModEngine-2.1.0.0-win64\Scripts-Data-Exposer-FS.dll at base address 0x7ffda9310000 is not a modengine extension
+[2026-01-19 16:57:40.114] [modengine] [info] Enabling extension base
+[2026-01-19 16:57:40.115] [modengine] [info] Enabled extension base
+[2026-01-19 16:57:40.115] [modengine] [info] Enabling extension mod_loader
+[2026-01-19 16:57:40.115] [modengine] [info] Installing mod location mod
+[2026-01-19 16:57:40.115] [modengine] [info] Resolved mod path to C:\Program Files (x86)\ModEngine-2.1.0.0-win64\mod
+[2026-01-19 16:57:40.115] [modengine] [info] Enabled extension mod_loader
+[2026-01-19 16:57:40.142] [modengine] [info] Applied 3 hooks
+[2026-01-19 16:57:40.143] [modengine] [info] Starting worker thread
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
+[2026-01-19 16:59:21.270] [modengine] [info] Destroying
