@@ -24198,6 +24198,10 @@ function Jump_D_onUpdate()
     JUMP_STATE_2 = 0
     JUMP_STATE_3 = 1
 
+    if GetVariable("JumpAttackForm") == 0 then
+        act(LockonFixedAngleCancel)
+    end
+
     if JumpCommonFunction(2) == TRUE then
         return
     end
