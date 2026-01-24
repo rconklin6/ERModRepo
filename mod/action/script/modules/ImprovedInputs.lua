@@ -32,6 +32,7 @@ DODGE_KEY = ACTION_ARM_CHANGE_STYLE
 lopressed = 0
 lanternframes = 0
 mountframes = 0
+globaljumpangle = 0
 ------------
 local iiload = 0
 
@@ -2392,146 +2393,147 @@ function ii_ExecEvasion(backstep_limit, estep, is_usechainrecover)
 
     if env(IsCOMPlayer) == FALSE then
 	    if env(ActionRequest, ACTION_ARM_L3) == TRUE then
-    	JUMP_KEY = ACTION_ARM_L3
-    if env(ActionRequest, ACTION_ARM_L3) == FALSE and env(IsAIJumpRequested) == FALSE then
-        return FALSE
-    end
-    if env(GetStamina) <= 0 and env(IsAIJumpRequested) == FALSE then
-        ResetRequest()
-        return FALSE
-    end
+			JUMP_KEY = ACTION_ARM_L3
+			if env(ActionRequest, ACTION_ARM_L3) == FALSE and env(IsAIJumpRequested) == FALSE then
+				return FALSE
+			end
+			if env(GetStamina) <= 0 and env(IsAIJumpRequested) == FALSE then
+				ResetRequest()
+				return FALSE
+			end
 
-    if env(GetSpEffectID, 102360) == FALSE then
-        AddStamina(STAMINA_REDUCE_JUMP)
-    end
-    SetWeightIndex()
+			if env(GetSpEffectID, 102360) == FALSE then
+				AddStamina(STAMINA_REDUCE_JUMP)
+			end
+			SetWeightIndex()
 
-    -- Jump: Overweight
-    if GetVariable("EvasionWeightIndex") == EVASION_WEIGHT_INDEX_OVERWEIGHT and env(IsAIJumpRequested) == FALSE then
-        local jumpangle = env(GetJumpAngle) * 0.009999999776482582
-            SetVariable("JumpOverweightIndex", 0)
+			-- Jump: Overweight
+			if GetVariable("EvasionWeightIndex") == EVASION_WEIGHT_INDEX_OVERWEIGHT and env(IsAIJumpRequested) == FALSE then
+				local jumpangle = env(GetJumpAngle) * 0.009999999776482582
+					SetVariable("JumpOverweightIndex", 0)
 
-        act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
-        SetAIActionState()
-        ExecEventAllBody("W_Jump_Overweight")
+				act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
+				SetAIActionState()
+				ExecEventAllBody("W_Jump_Overweight")
 
-        return TRUE
-    end
+				return TRUE
+			end
 
-    local style = c_Style
+			local style = c_Style
 
-    if style == HAND_RIGHT then
-        SetVariable("JumpAttack_HandCondition", 0)
-    elseif style == HAND_RIGHT_BOTH then
-        SetVariable("JumpAttack_HandCondition", 1)
-    elseif style == HAND_LEFT_BOTH then
-        if GetEquipType(HAND_LEFT, WEAPON_CATEGORY_CROSSBOW) == TRUE then
-            SetVariable("JumpAttack_HandCondition", 4)
-        else
-            SetVariable("JumpAttack_HandCondition", 1)
-        end
-    end
+			if style == HAND_RIGHT then
+				SetVariable("JumpAttack_HandCondition", 0)
+			elseif style == HAND_RIGHT_BOTH then
+				SetVariable("JumpAttack_HandCondition", 1)
+			elseif style == HAND_LEFT_BOTH then
+				if GetEquipType(HAND_LEFT, WEAPON_CATEGORY_CROSSBOW) == TRUE then
+					SetVariable("JumpAttack_HandCondition", 4)
+				else
+					SetVariable("JumpAttack_HandCondition", 1)
+				end
+			end
 
-    SetVariable("JumpAttackForm", 0)
-    SetVariable("JumpUseMotion_Bool", false)
-    SetVariable("JumpMotion_Override", 0.009999999776482582)
-    SetVariable("JumpAttack_Land", 0)
-    SetVariable("SwingPose", 0)
-    IS_ATTACKED_JUMPMAGIC = FALSE
+			SetVariable("JumpAttackForm", 0)
+			SetVariable("JumpUseMotion_Bool", false)
+			SetVariable("JumpMotion_Override", 0.009999999776482582)
+			SetVariable("JumpAttack_Land", 0)
+			SetVariable("SwingPose", 0)
+			IS_ATTACKED_JUMPMAGIC = FALSE
 
-    if GetVariable("IsEnableToggleDashTest") == 2 then
-        SetVariable("ToggleDash", 0)
-    end
+			if GetVariable("IsEnableToggleDashTest") == 2 then
+				SetVariable("ToggleDash", 0)
+			end
 
-    local JumpMoveLevel = 0
+			local JumpMoveLevel = 0
 
-    if GetVariable("LocomotionState") == 1 and GetVariable("MoveSpeedIndex") == 2 then
-        JumpMoveLevel = 2
-    elseif GetVariable("MoveSpeedLevel") >= 0.6000000238418579 then
-        JumpMoveLevel = 1
-    end
+			if GetVariable("LocomotionState") == 1 and GetVariable("MoveSpeedIndex") == 2 then
+				JumpMoveLevel = 2
+			elseif GetVariable("MoveSpeedLevel") >= 0.6000000238418579 then
+				JumpMoveLevel = 1
+			end
 
-    -- Ironjar Aromatic
-    if env(GetSpEffectID, 503520) == TRUE then
-        JumpMoveLevel = 0
-        -- Unknown
-    elseif env(GetSpEffectID, 5520) == TRUE then
-        JumpMoveLevel = 0
-        -- Slug: Slow
-    elseif env(GetSpEffectID, 425) == TRUE then
-        JumpMoveLevel = 0
-        -- Sanguine Noble: Slow
-    elseif env(GetSpEffectID, 4101) == TRUE then
-        JumpMoveLevel = 0
-        -- Sanguine Noble: Slow
-    elseif env(GetSpEffectID, 4100) == TRUE then
-        JumpMoveLevel = 0
-        -- Unknown (DLC)
-    elseif env(GetSpEffectID, 19670) == TRUE then
-        JumpMoveLevel = 0
-    end
+			-- Ironjar Aromatic
+			if env(GetSpEffectID, 503520) == TRUE then
+				JumpMoveLevel = 0
+				-- Unknown
+			elseif env(GetSpEffectID, 5520) == TRUE then
+				JumpMoveLevel = 0
+				-- Slug: Slow
+			elseif env(GetSpEffectID, 425) == TRUE then
+				JumpMoveLevel = 0
+				-- Sanguine Noble: Slow
+			elseif env(GetSpEffectID, 4101) == TRUE then
+				JumpMoveLevel = 0
+				-- Sanguine Noble: Slow
+			elseif env(GetSpEffectID, 4100) == TRUE then
+				JumpMoveLevel = 0
+				-- Unknown (DLC)
+			elseif env(GetSpEffectID, 19670) == TRUE then
+				JumpMoveLevel = 0
+			end
 
-    if JumpMoveLevel == 2 then
-        if env(IsAIJumpRequested) == TRUE then
-            act(NotifyAIOfJumpState)
-        end
+			if JumpMoveLevel == 2 then
+				if env(IsAIJumpRequested) == TRUE then
+					act(NotifyAIOfJumpState)
+				end
 
-        act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
-        SetAIActionState()
-        ExecEvent("W_Jump_D")
+				act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
+				SetAIActionState()
+				ExecEvent("W_Jump_D")
 
-        return TRUE
-    elseif JumpMoveLevel == 1 then
-        if env(IsPrecisionShoot) == FALSE and env(IsCOMPlayer) == FALSE then
-            SetVariable("JumpDirection", 0)
-            SetVariable("JumpAngle", 0)
-        else
-            local turn_target_angle = 0
-            local jumpangle = env(GetJumpAngle) * 0.009999999776482582
+				return TRUE 
+			elseif JumpMoveLevel == 1 then
+				if env(IsPrecisionShoot) == FALSE and env(IsCOMPlayer) == FALSE then
+					SetVariable("JumpDirection", 0)
+					SetVariable("JumpAngle", 0)
+				end
 
-            if jumpangle > -45 and jumpangle < 45 then
-                turn_target_angle = jumpangle
-                SetVariable("JumpDirection", 0)
-                SetVariable("JumpAngle", 0)
-            elseif jumpangle >= 0 and jumpangle <= 100 then
-                turn_target_angle = jumpangle - 90
-                SetVariable("JumpDirection", 3)
-                SetVariable("JumpAngle", 90)
-            elseif jumpangle >= -100 and jumpangle <= 0 then
-                turn_target_angle = jumpangle + 90
-                SetVariable("JumpDirection", 2)
-                SetVariable("JumpAngle", -90)
-            else
-                turn_target_angle = jumpangle - 180
-                SetVariable("JumpDirection", 1)
-                SetVariable("JumpAngle", 180)
-            end
-        end
+				local turn_target_angle = 0
+				local jumpangle = env(GetRollAngle) * 0.009999999776482582
+				if jumpangle > -45 and jumpangle < 45 then
+					turn_target_angle = jumpangle
+					SetVariable("JumpDirection", 0)
+					SetVariable("JumpAngle", 0)
+				elseif jumpangle >= 0 and jumpangle <= 100 then
+					turn_target_angle = jumpangle - 90
+					SetVariable("JumpDirection", 3)
+					SetVariable("JumpAngle", 90)
+				elseif jumpangle >= -100 and jumpangle <= 0 then
+					turn_target_angle = jumpangle + 90
+					SetVariable("JumpDirection", 2)
+					SetVariable("JumpAngle", -90)
+				else
+					turn_target_angle = jumpangle - 180
+					SetVariable("JumpDirection", 1)
+					SetVariable("JumpAngle", 180)
+				end
 
-        SetVariable("IsEnableDirectionJumpTAE", true)
+				globaljumpangle = turn_target_angle
 
-        if env(IsAIJumpRequested) == TRUE then
-            act(NotifyAIOfJumpState)
-        end
+				SetVariable("IsEnableDirectionJumpTAE", true)
 
-        act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
-        SetAIActionState()
-        ExecEvent("W_Jump_F")
+				if env(IsAIJumpRequested) == TRUE then
+					act(NotifyAIOfJumpState)
+				end
 
-        return TRUE
-    else
-        SetVariable("JumpReachSelector", 0)
+				act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
+				SetAIActionState()
+				ExecEvent("W_Jump_F")
 
-        if env(IsAIJumpRequested) == TRUE then
-            act(NotifyAIOfJumpState)
-        end
+				return TRUE
+			else
+				SetVariable("JumpReachSelector", 0)
 
-        act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
-        SetAIActionState()
-        ExecEvent("W_Jump_N")
+				if env(IsAIJumpRequested) == TRUE then
+					act(NotifyAIOfJumpState)
+				end
 
-        return TRUE
-    end
+				act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
+				SetAIActionState()
+				ExecEvent("W_Jump_N")
+
+				return TRUE
+			end
 	    end
     elseif env(IsCOMPlayer) == TRUE then
 	    if env(ActionRequest, ACTION_ARM_L3) == TRUE and c_IsStealth == FALSE then
@@ -3682,16 +3684,16 @@ end
 
 function ii_JumpCommonFunction(jump_type)
     if targettt == 0 then
-	if IS_ATTACKED_JUMPMAGIC == FALSE and GetVariable("JumpAttackForm") == 0 then
-	    act(LockonFixedAngleCancel)
-	else
-	    if GetVariable("IsLockon") == true then
-		act(TurnToLockonTargetImmediately)
-			targettt = 1
-	    else
-		act(LockonFixedAngleCancel)
-	    end
-	end
+		if IS_ATTACKED_JUMPMAGIC == FALSE and GetVariable("JumpAttackForm") == 0 then
+			act(TurnToLockonTargetImmediately, globaljumpangle)
+		else
+			if GetVariable("IsLockon") == true then
+				act(TurnToLockonTargetImmediately)
+				targettt = 1
+			else
+				act(LockonFixedAngleCancel)
+			end
+		end
     end
 busy = 1
 busy_f = 0

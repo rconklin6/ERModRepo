@@ -10,7 +10,7 @@ scheavyspeed = 1
 --overweight tier modifier
 scoverweightspeed = 1
 --sprint modifier
-scsprintspeed = 1.25
+scsprintspeed = 1.2
 --run/default modifier
 scrunspeed = 1
 --walk modifier
@@ -18,7 +18,9 @@ scwalkspeed = 1
 --sneak modifier
 scsneakspeed = 0.9
 --jump modifier
-scjumpspeed = 1
+scjumpspeed = 1.5
+--after jump fall modifier
+scfallspeed = 1.4
 --chargejumppower only applies if using my double jump mod
 scchargejumppower = 2.1
 --gradient reduction is disabled if scgradientredux is less than 1, this uses weight ratio to reduce the value to create gradient scaling
@@ -632,6 +634,9 @@ JumpCommonFunction = Include(sc_JumpCommonFunction, JumpCommonFunction)
 		scload = 1
 	end
     end
+    if env(GetSpEffectID, 100003) == TRUE then
+        act(2001, 30)
+    end
 end
 function sc_JumpCommonFunction(jump_type)
 	local mheight = env(GetFallHeight)
@@ -641,7 +646,7 @@ djchargejumppower = scchargejumppower
 	if tmheight[2] > tmheight[3] then
 		sc_jumpspeed()
 	else
-		act(2001, 1)
+		act(2001, scfallspeed)
 	end
 
 	if #tmheight > 3 then
