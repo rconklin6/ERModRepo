@@ -10,7 +10,7 @@ scheavyspeed = 1
 --overweight tier modifier
 scoverweightspeed = 1
 --sprint modifier
-scsprintspeed = 1.2
+scsprintspeed = 1.3
 --run/default modifier
 scrunspeed = 1
 --walk modifier
@@ -18,9 +18,9 @@ scwalkspeed = 1
 --sneak modifier
 scsneakspeed = 0.9
 --jump modifier
-scjumpspeed = 1.5
+scjumpspeed = 1.4
 --after jump fall modifier
-scfallspeed = 1.4
+scfallspeed = 1.35
 --chargejumppower only applies if using my double jump mod
 scchargejumppower = 2.1
 --gradient reduction is disabled if scgradientredux is less than 1, this uses weight ratio to reduce the value to create gradient scaling

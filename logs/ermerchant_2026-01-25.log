@@ -136,3 +136,16 @@
 [2026-01-25 16:33:17.334] [merchant] [info] Initialized mod
 [2026-01-25 16:35:46.264] [merchant] [info] Patching state group x51
 [2026-01-25 16:39:06.569] [merchant] [info] Deinitialized mod
+[2026-01-25 17:08:11.256] [merchant] [info] Glorious Merchant version 1.2.1
+[2026-01-25 17:08:11.256] [merchant] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ermerchant.ini
+[2026-01-25 17:08:11.260] [merchant] [info] auto_upgrade_weapons = false
+[2026-01-25 17:08:11.260] [merchant] [info] all_items_free = true
+[2026-01-25 17:08:11.261] [merchant] [info] Found handle for eldenring.exe process: c:\program files (x86)\steam\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2026-01-25 17:08:11.261] [merchant] [info] Waiting for params...
+[2026-01-25 17:08:19.267] [merchant] [info] Sleeping an extra 10s to work potential compatibility issues...
+[2026-01-25 17:08:29.268] [merchant] [info] Hooking messages...
+[2026-01-25 17:08:29.268] [merchant] [info] Detected language "english"
+[2026-01-25 17:08:29.269] [merchant] [info] Hooking shops...
+[2026-01-25 17:08:29.271] [merchant] [info] Hooking talkscripts...
+[2026-01-25 17:08:29.348] [merchant] [info] Initialized mod
+[2026-01-25 17:53:46.504] [merchant] [info] Deinitialized mod
