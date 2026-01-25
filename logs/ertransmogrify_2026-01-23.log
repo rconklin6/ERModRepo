@@ -1,0 +1,917 @@
+[2026-01-23 15:41:54.480] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 15:41:54.480] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 15:41:54.485] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 15:41:54.485] [transmog] [info] include_cut_armor = true
+[2026-01-23 15:41:54.485] [transmog] [info] include_dlc_armor = true
+[2026-01-23 15:41:54.485] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 15:41:54.485] [transmog] [info] initialize_delay = 0
+[2026-01-23 15:41:54.485] [transmog] [info] client_side_only = false
+[2026-01-23 15:41:55.389] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 15:41:55.390] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 15:41:55.391] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 15:41:55.391] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 15:42:04.439] [transmog] [info] Hooking transmog messages...
+[2026-01-23 15:42:04.439] [transmog] [info] Waiting for messages...
+[2026-01-23 15:42:04.440] [transmog] [info] Detected game language = english
+[2026-01-23 15:42:04.440] [transmog] [info] Adding transmog VFX...
+[2026-01-23 15:42:05.442] [transmog] [info] Adding transmog shops...
+[2026-01-23 15:42:06.445] [transmog] [info] Hooking talk scripts...
+[2026-01-23 15:42:06.526] [transmog] [info] Initialized transmog
+[2026-01-23 15:44:26.381] [transmog] [info] Deinitialized transmog
+[2026-01-23 15:44:58.484] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 15:44:58.484] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 15:44:58.484] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 15:44:58.484] [transmog] [info] include_cut_armor = true
+[2026-01-23 15:44:58.484] [transmog] [info] include_dlc_armor = true
+[2026-01-23 15:44:58.484] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 15:44:58.484] [transmog] [info] initialize_delay = 0
+[2026-01-23 15:44:58.484] [transmog] [info] client_side_only = false
+[2026-01-23 15:44:58.729] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 15:44:58.730] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 15:44:58.732] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 15:44:58.732] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 15:45:06.752] [transmog] [info] Hooking transmog messages...
+[2026-01-23 15:45:06.752] [transmog] [info] Waiting for messages...
+[2026-01-23 15:45:06.753] [transmog] [info] Detected game language = english
+[2026-01-23 15:45:06.753] [transmog] [info] Adding transmog VFX...
+[2026-01-23 15:45:07.756] [transmog] [info] Adding transmog shops...
+[2026-01-23 15:45:08.759] [transmog] [info] Hooking talk scripts...
+[2026-01-23 15:45:08.853] [transmog] [info] Initialized transmog
+[2026-01-23 15:46:18.458] [transmog] [info] Patching state group x31
+[2026-01-23 15:46:39.684] [transmog] [info] Deinitialized transmog
+[2026-01-23 15:48:03.920] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 15:48:03.920] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 15:48:03.920] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 15:48:03.920] [transmog] [info] include_cut_armor = true
+[2026-01-23 15:48:03.920] [transmog] [info] include_dlc_armor = true
+[2026-01-23 15:48:03.920] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 15:48:03.920] [transmog] [info] initialize_delay = 0
+[2026-01-23 15:48:03.920] [transmog] [info] client_side_only = false
+[2026-01-23 15:48:04.172] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 15:48:04.173] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 15:48:04.174] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 15:48:04.174] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 15:48:12.194] [transmog] [info] Hooking transmog messages...
+[2026-01-23 15:48:12.194] [transmog] [info] Waiting for messages...
+[2026-01-23 15:48:12.195] [transmog] [info] Detected game language = english
+[2026-01-23 15:48:12.195] [transmog] [info] Adding transmog VFX...
+[2026-01-23 15:48:13.197] [transmog] [info] Adding transmog shops...
+[2026-01-23 15:48:14.201] [transmog] [info] Hooking talk scripts...
+[2026-01-23 15:48:14.283] [transmog] [info] Initialized transmog
+[2026-01-23 15:49:14.376] [transmog] [info] Patching state group x31
+[2026-01-23 15:49:28.477] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:00:21.213] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:00:21.213] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:00:21.213] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:00:21.213] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:00:21.213] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:00:21.213] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:00:21.213] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:00:21.213] [transmog] [info] client_side_only = false
+[2026-01-23 16:00:21.445] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:00:21.446] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:00:21.447] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:00:21.447] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:00:29.467] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:00:29.468] [transmog] [info] Waiting for messages...
+[2026-01-23 16:00:29.468] [transmog] [info] Detected game language = english
+[2026-01-23 16:00:29.468] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:00:30.471] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:00:31.473] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:00:31.555] [transmog] [info] Initialized transmog
+[2026-01-23 16:02:04.933] [transmog] [info] Patching state group x31
+[2026-01-23 16:02:36.243] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:03:00.881] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:03:00.881] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:03:00.881] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:03:00.881] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:03:00.881] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:03:00.881] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:03:00.881] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:03:00.881] [transmog] [info] client_side_only = false
+[2026-01-23 16:03:01.136] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:03:01.137] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:03:01.138] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:03:01.138] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:03:09.159] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:03:09.159] [transmog] [info] Waiting for messages...
+[2026-01-23 16:03:09.159] [transmog] [info] Detected game language = english
+[2026-01-23 16:03:09.159] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:03:10.163] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:03:11.166] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:03:11.260] [transmog] [info] Initialized transmog
+[2026-01-23 16:04:08.724] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:07:11.532] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:07:11.533] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:07:11.533] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:07:11.533] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:07:11.533] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:07:11.533] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:07:11.533] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:07:11.533] [transmog] [info] client_side_only = false
+[2026-01-23 16:07:11.740] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:07:11.741] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:07:11.742] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:07:11.742] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:07:19.762] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:07:19.762] [transmog] [info] Waiting for messages...
+[2026-01-23 16:07:19.763] [transmog] [info] Detected game language = english
+[2026-01-23 16:07:19.763] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:07:20.765] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:07:21.768] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:07:21.846] [transmog] [info] Initialized transmog
+[2026-01-23 16:08:21.607] [transmog] [info] Patching state group x31
+[2026-01-23 16:10:32.794] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:12:36.732] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:12:36.732] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:12:36.732] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:12:36.732] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:12:36.732] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:12:36.732] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:12:36.732] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:12:36.732] [transmog] [info] client_side_only = false
+[2026-01-23 16:12:36.991] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:12:36.992] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:12:36.993] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:12:36.993] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:12:45.011] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:12:45.011] [transmog] [info] Waiting for messages...
+[2026-01-23 16:12:45.012] [transmog] [info] Detected game language = english
+[2026-01-23 16:12:45.012] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:12:46.014] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:12:47.016] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:12:47.108] [transmog] [info] Initialized transmog
+[2026-01-23 16:13:39.674] [transmog] [info] Patching state group x31
+[2026-01-23 16:14:01.314] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:15:11.728] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:15:11.728] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:15:11.728] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:15:11.728] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:15:11.728] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:15:11.728] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:15:11.728] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:15:11.728] [transmog] [info] client_side_only = false
+[2026-01-23 16:15:11.984] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:15:11.985] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:15:11.986] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:15:11.986] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:15:20.005] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:15:20.006] [transmog] [info] Waiting for messages...
+[2026-01-23 16:15:20.006] [transmog] [info] Detected game language = english
+[2026-01-23 16:15:20.006] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:15:21.009] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:15:22.011] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:15:22.098] [transmog] [info] Initialized transmog
+[2026-01-23 16:16:10.027] [transmog] [info] Patching state group x31
+[2026-01-23 16:16:38.333] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:17:53.437] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:17:53.437] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:17:53.437] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:17:53.437] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:17:53.437] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:17:53.437] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:17:53.437] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:17:53.437] [transmog] [info] client_side_only = false
+[2026-01-23 16:17:53.697] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:17:53.698] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:17:53.700] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:17:53.700] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:18:01.719] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:18:01.719] [transmog] [info] Waiting for messages...
+[2026-01-23 16:18:01.720] [transmog] [info] Detected game language = english
+[2026-01-23 16:18:01.720] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:18:02.722] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:18:03.724] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:18:03.818] [transmog] [info] Initialized transmog
+[2026-01-23 16:21:31.403] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:21:56.752] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:21:56.752] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:21:56.752] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:21:56.752] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:21:56.752] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:21:56.752] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:21:56.752] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:21:56.752] [transmog] [info] client_side_only = false
+[2026-01-23 16:21:57.004] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:21:57.005] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:21:57.006] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:21:57.007] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:22:05.025] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:22:05.025] [transmog] [info] Waiting for messages...
+[2026-01-23 16:22:05.026] [transmog] [info] Detected game language = english
+[2026-01-23 16:22:05.026] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:22:06.029] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:22:07.032] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:22:07.115] [transmog] [info] Initialized transmog
+[2026-01-23 16:23:38.099] [transmog] [info] Patching state group x31
+[2026-01-23 16:28:38.236] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:32:05.808] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:32:05.808] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:32:05.808] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:32:05.808] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:32:05.808] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:32:05.808] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:32:05.808] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:32:05.808] [transmog] [info] client_side_only = false
+[2026-01-23 16:32:06.012] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:32:06.013] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:32:06.014] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:32:06.014] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:32:14.033] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:32:14.034] [transmog] [info] Waiting for messages...
+[2026-01-23 16:32:14.034] [transmog] [info] Detected game language = english
+[2026-01-23 16:32:14.034] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:32:15.037] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:32:16.040] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:32:16.135] [transmog] [info] Initialized transmog
+[2026-01-23 16:32:53.421] [transmog] [info] Patching state group x31
+[2026-01-23 16:35:27.011] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:41:16.462] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:41:16.462] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:41:16.462] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:41:16.462] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:41:16.462] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:41:16.462] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:41:16.462] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:41:16.462] [transmog] [info] client_side_only = false
+[2026-01-23 16:41:16.677] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:41:16.678] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:41:16.679] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:41:16.679] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:41:24.697] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:41:24.697] [transmog] [info] Waiting for messages...
+[2026-01-23 16:41:24.698] [transmog] [info] Detected game language = english
+[2026-01-23 16:41:24.698] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:41:25.700] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:41:26.703] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:41:26.784] [transmog] [info] Initialized transmog
+[2026-01-23 16:42:24.299] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:45:34.809] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:45:34.809] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:45:34.809] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:45:34.809] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:45:34.809] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:45:34.809] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:45:34.809] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:45:34.809] [transmog] [info] client_side_only = false
+[2026-01-23 16:45:35.095] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:45:35.097] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:45:35.098] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:45:35.098] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:45:43.117] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:45:43.118] [transmog] [info] Waiting for messages...
+[2026-01-23 16:45:43.118] [transmog] [info] Detected game language = english
+[2026-01-23 16:45:43.118] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:45:44.120] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:45:45.123] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:45:45.201] [transmog] [info] Initialized transmog
+[2026-01-23 16:46:21.166] [transmog] [info] Patching state group x31
+[2026-01-23 16:46:42.787] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:48:35.296] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:48:35.296] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:48:35.296] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:48:35.296] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:48:35.296] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:48:35.296] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:48:35.296] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:48:35.296] [transmog] [info] client_side_only = false
+[2026-01-23 16:48:35.534] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:48:35.535] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:48:35.536] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:48:35.536] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:48:43.554] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:48:43.555] [transmog] [info] Waiting for messages...
+[2026-01-23 16:48:43.555] [transmog] [info] Detected game language = english
+[2026-01-23 16:48:43.555] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:48:44.558] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:48:45.560] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:48:45.647] [transmog] [info] Initialized transmog
+[2026-01-23 16:49:43.140] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:51:07.067] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:51:07.067] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:51:07.068] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:51:07.068] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:51:07.068] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:51:07.068] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:51:07.068] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:51:07.068] [transmog] [info] client_side_only = false
+[2026-01-23 16:51:07.312] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:51:07.313] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:51:07.314] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:51:07.314] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:51:15.333] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:51:15.334] [transmog] [info] Waiting for messages...
+[2026-01-23 16:51:15.334] [transmog] [info] Detected game language = english
+[2026-01-23 16:51:15.334] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:51:16.336] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:51:17.339] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:51:17.420] [transmog] [info] Initialized transmog
+[2026-01-23 16:52:14.984] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:52:54.593] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:52:54.593] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:52:54.594] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:52:54.594] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:52:54.594] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:52:54.594] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:52:54.594] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:52:54.594] [transmog] [info] client_side_only = false
+[2026-01-23 16:52:54.839] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:52:54.840] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:52:54.841] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:52:54.841] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:53:02.859] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:53:02.859] [transmog] [info] Waiting for messages...
+[2026-01-23 16:53:02.860] [transmog] [info] Detected game language = english
+[2026-01-23 16:53:02.860] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:53:03.862] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:53:04.864] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:53:04.947] [transmog] [info] Initialized transmog
+[2026-01-23 16:53:47.835] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:55:38.399] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:55:38.399] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:55:38.400] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:55:38.400] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:55:38.400] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:55:38.400] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:55:38.400] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:55:38.400] [transmog] [info] client_side_only = false
+[2026-01-23 16:55:38.648] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:55:38.649] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:55:38.650] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:55:38.650] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:55:46.669] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:55:46.669] [transmog] [info] Waiting for messages...
+[2026-01-23 16:55:46.670] [transmog] [info] Detected game language = english
+[2026-01-23 16:55:46.670] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:55:47.672] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:55:48.676] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:55:48.773] [transmog] [info] Initialized transmog
+[2026-01-23 16:56:31.665] [transmog] [info] Deinitialized transmog
+[2026-01-23 16:57:28.134] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 16:57:28.134] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 16:57:28.134] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 16:57:28.134] [transmog] [info] include_cut_armor = true
+[2026-01-23 16:57:28.134] [transmog] [info] include_dlc_armor = true
+[2026-01-23 16:57:28.134] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 16:57:28.134] [transmog] [info] initialize_delay = 0
+[2026-01-23 16:57:28.134] [transmog] [info] client_side_only = false
+[2026-01-23 16:57:28.376] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:57:28.377] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 16:57:28.378] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 16:57:28.378] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 16:57:36.397] [transmog] [info] Hooking transmog messages...
+[2026-01-23 16:57:36.397] [transmog] [info] Waiting for messages...
+[2026-01-23 16:57:36.397] [transmog] [info] Detected game language = english
+[2026-01-23 16:57:36.397] [transmog] [info] Adding transmog VFX...
+[2026-01-23 16:57:37.400] [transmog] [info] Adding transmog shops...
+[2026-01-23 16:57:38.403] [transmog] [info] Hooking talk scripts...
+[2026-01-23 16:57:38.483] [transmog] [info] Initialized transmog
+[2026-01-23 16:58:18.772] [transmog] [info] Patching state group x31
+[2026-01-23 16:58:36.073] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:05:03.604] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:05:03.604] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:05:03.604] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:05:03.604] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:05:03.604] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:05:03.604] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:05:03.604] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:05:03.604] [transmog] [info] client_side_only = false
+[2026-01-23 17:05:03.828] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:05:03.830] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:05:03.831] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:05:03.831] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:05:11.853] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:05:11.853] [transmog] [info] Waiting for messages...
+[2026-01-23 17:05:11.854] [transmog] [info] Detected game language = english
+[2026-01-23 17:05:11.854] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:05:12.857] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:05:13.859] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:05:13.939] [transmog] [info] Initialized transmog
+[2026-01-23 17:05:56.820] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:06:47.176] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:06:47.176] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:06:47.176] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:06:47.176] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:06:47.176] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:06:47.176] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:06:47.176] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:06:47.176] [transmog] [info] client_side_only = false
+[2026-01-23 17:06:47.453] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:06:47.454] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:06:47.455] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:06:47.455] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:06:55.474] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:06:55.474] [transmog] [info] Waiting for messages...
+[2026-01-23 17:06:55.475] [transmog] [info] Detected game language = english
+[2026-01-23 17:06:55.475] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:06:56.478] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:06:57.480] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:06:57.558] [transmog] [info] Initialized transmog
+[2026-01-23 17:07:38.894] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:07:48.615] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:07:48.615] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:07:48.615] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:07:48.615] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:07:48.615] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:07:48.615] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:07:48.615] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:07:48.615] [transmog] [info] client_side_only = false
+[2026-01-23 17:07:48.873] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:07:48.874] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:07:48.875] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:07:48.875] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:07:56.894] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:07:56.894] [transmog] [info] Waiting for messages...
+[2026-01-23 17:07:56.895] [transmog] [info] Detected game language = english
+[2026-01-23 17:07:56.895] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:07:57.899] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:07:58.902] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:07:59.009] [transmog] [info] Initialized transmog
+[2026-01-23 17:08:56.994] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:09:57.157] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:09:57.157] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:09:57.157] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:09:57.157] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:09:57.157] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:09:57.157] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:09:57.157] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:09:57.157] [transmog] [info] client_side_only = false
+[2026-01-23 17:09:57.362] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:09:57.363] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:09:57.364] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:09:57.364] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:10:05.384] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:10:05.385] [transmog] [info] Waiting for messages...
+[2026-01-23 17:10:05.385] [transmog] [info] Detected game language = english
+[2026-01-23 17:10:05.385] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:10:06.387] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:10:07.391] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:10:07.466] [transmog] [info] Initialized transmog
+[2026-01-23 17:11:04.967] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:26:01.637] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:26:01.637] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:26:01.637] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:26:01.637] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:26:01.637] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:26:01.637] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:26:01.637] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:26:01.637] [transmog] [info] client_side_only = false
+[2026-01-23 17:26:01.848] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:26:01.849] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:26:01.850] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:26:01.850] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:26:09.871] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:26:09.871] [transmog] [info] Waiting for messages...
+[2026-01-23 17:26:09.871] [transmog] [info] Detected game language = english
+[2026-01-23 17:26:09.871] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:26:10.874] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:26:11.876] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:26:11.955] [transmog] [info] Initialized transmog
+[2026-01-23 17:27:09.452] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:27:32.828] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:27:32.828] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:27:32.829] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:27:32.829] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:27:32.829] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:27:32.829] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:27:32.829] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:27:32.829] [transmog] [info] client_side_only = false
+[2026-01-23 17:27:33.068] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:27:33.069] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:27:33.070] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:27:33.070] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:27:41.088] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:27:41.088] [transmog] [info] Waiting for messages...
+[2026-01-23 17:27:41.089] [transmog] [info] Detected game language = english
+[2026-01-23 17:27:41.089] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:27:42.092] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:27:43.094] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:27:43.177] [transmog] [info] Initialized transmog
+[2026-01-23 17:28:40.642] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:30:59.784] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:30:59.784] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:30:59.784] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:30:59.784] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:30:59.784] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:30:59.784] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:30:59.784] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:30:59.784] [transmog] [info] client_side_only = false
+[2026-01-23 17:31:00.012] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:31:00.013] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:31:00.014] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:31:00.014] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:31:08.034] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:31:08.034] [transmog] [info] Waiting for messages...
+[2026-01-23 17:31:08.034] [transmog] [info] Detected game language = english
+[2026-01-23 17:31:08.034] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:31:09.037] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:31:10.041] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:31:10.118] [transmog] [info] Initialized transmog
+[2026-01-23 17:31:52.922] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:35:43.527] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:35:43.527] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:35:43.527] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:35:43.527] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:35:43.527] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:35:43.527] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:35:43.527] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:35:43.527] [transmog] [info] client_side_only = false
+[2026-01-23 17:35:43.773] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:35:43.774] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:35:43.775] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:35:43.775] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:35:51.794] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:35:51.794] [transmog] [info] Waiting for messages...
+[2026-01-23 17:35:51.795] [transmog] [info] Detected game language = english
+[2026-01-23 17:35:51.795] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:35:52.797] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:35:53.800] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:35:53.884] [transmog] [info] Initialized transmog
+[2026-01-23 17:36:51.907] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:39:41.058] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:39:41.058] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:39:41.058] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:39:41.058] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:39:41.058] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:39:41.058] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:39:41.058] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:39:41.058] [transmog] [info] client_side_only = false
+[2026-01-23 17:39:41.300] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:39:41.301] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:39:41.303] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:39:41.303] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:39:49.322] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:39:49.322] [transmog] [info] Waiting for messages...
+[2026-01-23 17:39:49.323] [transmog] [info] Detected game language = english
+[2026-01-23 17:39:49.323] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:39:50.325] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:39:51.328] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:39:51.407] [transmog] [info] Initialized transmog
+[2026-01-23 17:41:05.643] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:47:26.863] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:47:26.863] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:47:26.864] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:47:26.864] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:47:26.864] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:47:26.864] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:47:26.864] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:47:26.864] [transmog] [info] client_side_only = false
+[2026-01-23 17:47:27.078] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:47:27.079] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:47:27.080] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:47:27.080] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:47:35.100] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:47:35.100] [transmog] [info] Waiting for messages...
+[2026-01-23 17:47:35.101] [transmog] [info] Detected game language = english
+[2026-01-23 17:47:35.101] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:47:36.103] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:47:37.106] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:47:37.182] [transmog] [info] Initialized transmog
+[2026-01-23 17:48:51.352] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:48:57.005] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:48:57.005] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:48:57.005] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:48:57.005] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:48:57.005] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:48:57.005] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:48:57.005] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:48:57.005] [transmog] [info] client_side_only = false
+[2026-01-23 17:48:57.228] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:48:57.229] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:48:57.230] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:48:57.230] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:49:05.249] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:49:05.249] [transmog] [info] Waiting for messages...
+[2026-01-23 17:49:05.250] [transmog] [info] Detected game language = english
+[2026-01-23 17:49:05.250] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:49:06.252] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:49:07.256] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:49:07.331] [transmog] [info] Initialized transmog
+[2026-01-23 17:50:21.561] [transmog] [info] Deinitialized transmog
+[2026-01-23 17:56:56.027] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 17:56:56.027] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 17:56:56.027] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 17:56:56.027] [transmog] [info] include_cut_armor = true
+[2026-01-23 17:56:56.027] [transmog] [info] include_dlc_armor = true
+[2026-01-23 17:56:56.027] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 17:56:56.027] [transmog] [info] initialize_delay = 0
+[2026-01-23 17:56:56.027] [transmog] [info] client_side_only = false
+[2026-01-23 17:56:56.233] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:56:56.234] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 17:56:56.235] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 17:56:56.235] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 17:57:04.255] [transmog] [info] Hooking transmog messages...
+[2026-01-23 17:57:04.256] [transmog] [info] Waiting for messages...
+[2026-01-23 17:57:04.256] [transmog] [info] Detected game language = english
+[2026-01-23 17:57:04.256] [transmog] [info] Adding transmog VFX...
+[2026-01-23 17:57:05.259] [transmog] [info] Adding transmog shops...
+[2026-01-23 17:57:06.263] [transmog] [info] Hooking talk scripts...
+[2026-01-23 17:57:06.341] [transmog] [info] Initialized transmog
+[2026-01-23 17:58:10.288] [transmog] [info] Patching state group x31
+[2026-01-23 17:58:53.849] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:12:03.829] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:12:03.829] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:12:03.829] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:12:03.829] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:12:03.829] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:12:03.829] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:12:03.829] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:12:03.829] [transmog] [info] client_side_only = false
+[2026-01-23 18:12:04.038] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:12:04.039] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:12:04.040] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:12:04.040] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:12:12.059] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:12:12.060] [transmog] [info] Waiting for messages...
+[2026-01-23 18:12:12.060] [transmog] [info] Detected game language = english
+[2026-01-23 18:12:12.060] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:12:13.062] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:12:14.065] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:12:14.145] [transmog] [info] Initialized transmog
+[2026-01-23 18:18:46.954] [transmog] [info] Patching state group x31
+[2026-01-23 18:19:01.729] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:19:36.985] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:19:36.985] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:19:36.985] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:19:36.985] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:19:36.985] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:19:36.985] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:19:36.985] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:19:36.985] [transmog] [info] client_side_only = false
+[2026-01-23 18:19:37.229] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:19:37.230] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:19:37.231] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:19:37.231] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:19:45.251] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:19:45.251] [transmog] [info] Waiting for messages...
+[2026-01-23 18:19:45.252] [transmog] [info] Detected game language = english
+[2026-01-23 18:19:45.252] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:19:46.255] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:19:47.258] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:19:47.334] [transmog] [info] Initialized transmog
+[2026-01-23 18:20:34.640] [transmog] [info] Patching state group x31
+[2026-01-23 18:21:34.873] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:21:49.517] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:21:49.518] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:21:49.518] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:21:49.518] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:21:49.518] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:21:49.518] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:21:49.518] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:21:49.518] [transmog] [info] client_side_only = false
+[2026-01-23 18:21:49.774] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:21:49.776] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:21:49.777] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:21:49.777] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:21:57.796] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:21:57.796] [transmog] [info] Waiting for messages...
+[2026-01-23 18:21:57.797] [transmog] [info] Detected game language = english
+[2026-01-23 18:21:57.797] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:21:58.800] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:21:59.803] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:21:59.891] [transmog] [info] Initialized transmog
+[2026-01-23 18:22:57.511] [transmog] [info] Patching state group x31
+[2026-01-23 18:23:14.049] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:23:52.143] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:23:52.143] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:23:52.143] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:23:52.143] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:23:52.143] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:23:52.143] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:23:52.143] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:23:52.143] [transmog] [info] client_side_only = false
+[2026-01-23 18:23:52.390] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:23:52.391] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:23:52.392] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:23:52.392] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:24:00.414] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:24:00.415] [transmog] [info] Waiting for messages...
+[2026-01-23 18:24:00.415] [transmog] [info] Detected game language = english
+[2026-01-23 18:24:00.415] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:24:01.417] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:24:02.420] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:24:02.518] [transmog] [info] Initialized transmog
+[2026-01-23 18:25:18.677] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:25:34.511] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:25:34.511] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:25:34.511] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:25:34.511] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:25:34.511] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:25:34.511] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:25:34.511] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:25:34.511] [transmog] [info] client_side_only = false
+[2026-01-23 18:25:34.727] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:25:34.728] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:25:34.729] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:25:34.729] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:25:42.748] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:25:42.749] [transmog] [info] Waiting for messages...
+[2026-01-23 18:25:42.749] [transmog] [info] Detected game language = english
+[2026-01-23 18:25:42.749] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:25:43.753] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:25:44.755] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:25:44.829] [transmog] [info] Initialized transmog
+[2026-01-23 18:26:42.340] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:28:00.487] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:28:00.487] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:28:00.487] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:28:00.487] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:28:00.487] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:28:00.487] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:28:00.487] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:28:00.487] [transmog] [info] client_side_only = false
+[2026-01-23 18:28:00.696] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:28:00.697] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:28:00.699] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:28:00.699] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:28:08.719] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:28:08.720] [transmog] [info] Waiting for messages...
+[2026-01-23 18:28:08.720] [transmog] [info] Detected game language = english
+[2026-01-23 18:28:08.720] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:28:09.723] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:28:10.726] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:28:10.800] [transmog] [info] Initialized transmog
+[2026-01-23 18:28:58.271] [transmog] [info] Patching state group x31
+[2026-01-23 18:29:24.970] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:31:04.149] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:31:04.149] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:31:04.149] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:31:04.149] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:31:04.149] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:31:04.149] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:31:04.149] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:31:04.149] [transmog] [info] client_side_only = false
+[2026-01-23 18:31:04.370] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:31:04.372] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:31:04.373] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:31:04.373] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:31:12.393] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:31:12.393] [transmog] [info] Waiting for messages...
+[2026-01-23 18:31:12.394] [transmog] [info] Detected game language = english
+[2026-01-23 18:31:12.394] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:31:13.397] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:31:14.400] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:31:14.482] [transmog] [info] Initialized transmog
+[2026-01-23 18:33:01.956] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:42:33.323] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:42:33.323] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:42:33.323] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:42:33.323] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:42:33.323] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:42:33.323] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:42:33.323] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:42:33.323] [transmog] [info] client_side_only = false
+[2026-01-23 18:42:33.540] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:42:33.541] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:42:33.542] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:42:33.542] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:42:41.563] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:42:41.564] [transmog] [info] Waiting for messages...
+[2026-01-23 18:42:41.564] [transmog] [info] Detected game language = english
+[2026-01-23 18:42:41.564] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:42:42.567] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:42:43.569] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:42:43.644] [transmog] [info] Initialized transmog
+[2026-01-23 18:43:41.126] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:47:51.984] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:47:51.984] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:47:51.984] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:47:51.984] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:47:51.984] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:47:51.984] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:47:51.984] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:47:51.984] [transmog] [info] client_side_only = false
+[2026-01-23 18:47:52.224] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:47:52.225] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:47:52.227] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:47:52.227] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:48:00.247] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:48:00.247] [transmog] [info] Waiting for messages...
+[2026-01-23 18:48:00.248] [transmog] [info] Detected game language = english
+[2026-01-23 18:48:00.248] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:48:01.250] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:48:02.253] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:48:02.333] [transmog] [info] Initialized transmog
+[2026-01-23 18:49:16.497] [transmog] [info] Deinitialized transmog
+[2026-01-23 18:49:34.567] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 18:49:34.567] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 18:49:34.567] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 18:49:34.567] [transmog] [info] include_cut_armor = true
+[2026-01-23 18:49:34.567] [transmog] [info] include_dlc_armor = true
+[2026-01-23 18:49:34.567] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 18:49:34.567] [transmog] [info] initialize_delay = 0
+[2026-01-23 18:49:34.567] [transmog] [info] client_side_only = false
+[2026-01-23 18:49:34.828] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:49:34.829] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 18:49:34.830] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 18:49:34.830] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 18:49:42.851] [transmog] [info] Hooking transmog messages...
+[2026-01-23 18:49:42.851] [transmog] [info] Waiting for messages...
+[2026-01-23 18:49:42.852] [transmog] [info] Detected game language = english
+[2026-01-23 18:49:42.852] [transmog] [info] Adding transmog VFX...
+[2026-01-23 18:49:43.855] [transmog] [info] Adding transmog shops...
+[2026-01-23 18:49:44.859] [transmog] [info] Hooking talk scripts...
+[2026-01-23 18:49:44.946] [transmog] [info] Initialized transmog
+[2026-01-23 18:50:20.915] [transmog] [info] Patching state group x31
+[2026-01-23 18:51:32.431] [transmog] [info] Deinitialized transmog
+[2026-01-23 19:03:28.510] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 19:03:28.510] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 19:03:28.510] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 19:03:28.510] [transmog] [info] include_cut_armor = true
+[2026-01-23 19:03:28.510] [transmog] [info] include_dlc_armor = true
+[2026-01-23 19:03:28.510] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 19:03:28.510] [transmog] [info] initialize_delay = 0
+[2026-01-23 19:03:28.510] [transmog] [info] client_side_only = false
+[2026-01-23 19:03:28.731] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:03:28.732] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:03:28.733] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 19:03:28.733] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 19:03:36.753] [transmog] [info] Hooking transmog messages...
+[2026-01-23 19:03:36.754] [transmog] [info] Waiting for messages...
+[2026-01-23 19:03:36.754] [transmog] [info] Detected game language = english
+[2026-01-23 19:03:36.754] [transmog] [info] Adding transmog VFX...
+[2026-01-23 19:03:37.756] [transmog] [info] Adding transmog shops...
+[2026-01-23 19:03:38.759] [transmog] [info] Hooking talk scripts...
+[2026-01-23 19:03:38.848] [transmog] [info] Initialized transmog
+[2026-01-23 19:04:36.328] [transmog] [info] Deinitialized transmog
+[2026-01-23 19:05:01.183] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 19:05:01.183] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 19:05:01.183] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 19:05:01.183] [transmog] [info] include_cut_armor = true
+[2026-01-23 19:05:01.183] [transmog] [info] include_dlc_armor = true
+[2026-01-23 19:05:01.183] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 19:05:01.183] [transmog] [info] initialize_delay = 0
+[2026-01-23 19:05:01.183] [transmog] [info] client_side_only = false
+[2026-01-23 19:05:01.403] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:05:01.404] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:05:01.405] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 19:05:01.406] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 19:05:09.424] [transmog] [info] Hooking transmog messages...
+[2026-01-23 19:05:09.425] [transmog] [info] Waiting for messages...
+[2026-01-23 19:05:09.425] [transmog] [info] Detected game language = english
+[2026-01-23 19:05:09.425] [transmog] [info] Adding transmog VFX...
+[2026-01-23 19:05:10.428] [transmog] [info] Adding transmog shops...
+[2026-01-23 19:05:11.430] [transmog] [info] Hooking talk scripts...
+[2026-01-23 19:05:11.504] [transmog] [info] Initialized transmog
+[2026-01-23 19:06:25.725] [transmog] [info] Deinitialized transmog
+[2026-01-23 19:10:41.976] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 19:10:41.976] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 19:10:41.977] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 19:10:41.977] [transmog] [info] include_cut_armor = true
+[2026-01-23 19:10:41.977] [transmog] [info] include_dlc_armor = true
+[2026-01-23 19:10:41.977] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 19:10:41.977] [transmog] [info] initialize_delay = 0
+[2026-01-23 19:10:41.977] [transmog] [info] client_side_only = false
+[2026-01-23 19:10:42.265] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:10:42.266] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:10:42.267] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 19:10:42.267] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 19:10:50.287] [transmog] [info] Hooking transmog messages...
+[2026-01-23 19:10:50.288] [transmog] [info] Waiting for messages...
+[2026-01-23 19:10:50.288] [transmog] [info] Detected game language = english
+[2026-01-23 19:10:50.288] [transmog] [info] Adding transmog VFX...
+[2026-01-23 19:10:51.291] [transmog] [info] Adding transmog shops...
+[2026-01-23 19:10:52.294] [transmog] [info] Hooking talk scripts...
+[2026-01-23 19:10:52.371] [transmog] [info] Initialized transmog
+[2026-01-23 19:12:56.575] [transmog] [info] Deinitialized transmog
+[2026-01-23 19:13:28.956] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 19:13:28.956] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 19:13:28.956] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 19:13:28.956] [transmog] [info] include_cut_armor = true
+[2026-01-23 19:13:28.956] [transmog] [info] include_dlc_armor = true
+[2026-01-23 19:13:28.956] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 19:13:28.956] [transmog] [info] initialize_delay = 0
+[2026-01-23 19:13:28.956] [transmog] [info] client_side_only = false
+[2026-01-23 19:13:29.191] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:13:29.192] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:13:29.193] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 19:13:29.193] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 19:13:37.213] [transmog] [info] Hooking transmog messages...
+[2026-01-23 19:13:37.213] [transmog] [info] Waiting for messages...
+[2026-01-23 19:13:37.214] [transmog] [info] Detected game language = english
+[2026-01-23 19:13:37.214] [transmog] [info] Adding transmog VFX...
+[2026-01-23 19:13:38.217] [transmog] [info] Adding transmog shops...
+[2026-01-23 19:13:39.220] [transmog] [info] Hooking talk scripts...
+[2026-01-23 19:13:39.293] [transmog] [info] Initialized transmog
+[2026-01-23 19:14:36.785] [transmog] [info] Deinitialized transmog
+[2026-01-23 19:33:13.125] [transmog] [info] Transmog version 2.4.12
+[2026-01-23 19:33:13.125] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-23 19:33:13.125] [transmog] [info] include_unobtained_armor = true
+[2026-01-23 19:33:13.125] [transmog] [info] include_cut_armor = true
+[2026-01-23 19:33:13.125] [transmog] [info] include_dlc_armor = true
+[2026-01-23 19:33:13.125] [transmog] [info] patch_grace_talk_script = true
+[2026-01-23 19:33:13.125] [transmog] [info] initialize_delay = 0
+[2026-01-23 19:33:13.125] [transmog] [info] client_side_only = false
+[2026-01-23 19:33:13.370] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:33:13.371] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7d6754dc8
+[2026-01-23 19:33:13.372] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7d6766408
+[2026-01-23 19:33:13.372] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7d6f69478
+[2026-01-23 19:33:21.393] [transmog] [info] Hooking transmog messages...
+[2026-01-23 19:33:21.394] [transmog] [info] Waiting for messages...
+[2026-01-23 19:33:21.394] [transmog] [info] Detected game language = english
+[2026-01-23 19:33:21.394] [transmog] [info] Adding transmog VFX...
+[2026-01-23 19:33:22.398] [transmog] [info] Adding transmog shops...
+[2026-01-23 19:33:23.401] [transmog] [info] Hooking talk scripts...
+[2026-01-23 19:33:23.478] [transmog] [info] Initialized transmog
+[2026-01-23 19:34:00.935] [transmog] [info] Patching state group x31
+[2026-01-23 19:35:44.348] [transmog] [info] Deinitialized transmog

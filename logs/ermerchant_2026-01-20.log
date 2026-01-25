@@ -1,0 +1,14 @@
+[2026-01-20 21:34:57.134] [merchant] [info] Glorious Merchant version 1.2.1
+[2026-01-20 21:34:57.134] [merchant] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ermerchant.ini
+[2026-01-20 21:34:57.139] [merchant] [info] auto_upgrade_weapons = false
+[2026-01-20 21:34:57.139] [merchant] [info] all_items_free = true
+[2026-01-20 21:34:57.139] [merchant] [info] Found handle for eldenring.exe process: c:\program files (x86)\steam\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2026-01-20 21:34:57.167] [merchant] [info] Waiting for params...
+[2026-01-20 21:35:07.183] [merchant] [info] Sleeping an extra 10s to work potential compatibility issues...
+[2026-01-20 22:58:40.075] [merchant] [info] Glorious Merchant version 1.2.1
+[2026-01-20 22:58:40.075] [merchant] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ermerchant.ini
+[2026-01-20 22:58:40.079] [merchant] [info] auto_upgrade_weapons = false
+[2026-01-20 22:58:40.079] [merchant] [info] all_items_free = true
+[2026-01-20 22:58:40.079] [merchant] [info] Found handle for eldenring.exe process: c:\program files (x86)\steam\steamapps\common\ELDEN RING\Game\eldenring.exe
+[2026-01-20 22:58:40.081] [merchant] [info] Waiting for params...
+[2026-01-20 22:58:49.100] [merchant] [info] Sleeping an extra 10s to work potential compatibility issues...

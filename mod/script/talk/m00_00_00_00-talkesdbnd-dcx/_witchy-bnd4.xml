@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>m00_00_00_00.talkesdbnd.dcx</filename>
+  <compression>DCX_KRAK</compression>
+  <compressionLevel>6</compressionLevel>
+  <root>N:\GR\data\INTERROOT_win64\script\talk\m00_00_00_00</root>
+  <version>07D7R6</version>
+  <format>IDs, Names1, Names2, Compression</format>
+  <bigendian>False</bigendian>
+  <bitbigendian>False</bitbigendian>
+  <unicode>True</unicode>
+  <extended>0x04</extended>
+  <unk04>False</unk04>
+  <unk05>False</unk05>
+  <files>
+    <file>
+      <flags>Flag1</flags>
+      <id>0</id>
+      <path>t000001000.esd</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>1</id>
+      <path>t000001100.esd</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>2</id>
+      <path>t000002000.esd</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>3</id>
+      <path>t000002006.esd</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>4</id>
+      <path>t000002012.esd</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>5</id>
+      <path>t000002100.esd</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>6</id>
+      <path>t000003000.esd</path>
+    </file>
+  </files>
+</bnd4>

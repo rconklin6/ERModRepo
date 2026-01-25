@@ -1,0 +1,24 @@
+[2026-01-20 21:34:57.107] [transmog] [info] Transmog version 2.4.12
+[2026-01-20 21:34:57.107] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-20 21:34:57.112] [transmog] [info] include_unobtained_armor = true
+[2026-01-20 21:34:57.112] [transmog] [info] include_cut_armor = true
+[2026-01-20 21:34:57.112] [transmog] [info] include_dlc_armor = true
+[2026-01-20 21:34:57.112] [transmog] [info] patch_grace_talk_script = true
+[2026-01-20 21:34:57.112] [transmog] [info] initialize_delay = 0
+[2026-01-20 21:34:57.112] [transmog] [info] client_side_only = false
+[2026-01-20 21:34:58.392] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff631294dc8
+[2026-01-20 21:34:58.393] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff631294dc8
+[2026-01-20 21:34:58.395] [transmog] [warning] Unknown singleton CSPanic at 0x7ff6312a6408
+[2026-01-20 21:34:58.395] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff631aa9478
+[2026-01-20 22:58:40.050] [transmog] [info] Transmog version 2.4.12
+[2026-01-20 22:58:40.050] [transmog] [info] Loading config from C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.ini
+[2026-01-20 22:58:40.054] [transmog] [info] include_unobtained_armor = true
+[2026-01-20 22:58:40.054] [transmog] [info] include_cut_armor = true
+[2026-01-20 22:58:40.054] [transmog] [info] include_dlc_armor = true
+[2026-01-20 22:58:40.054] [transmog] [info] patch_grace_talk_script = true
+[2026-01-20 22:58:40.054] [transmog] [info] initialize_delay = 0
+[2026-01-20 22:58:40.054] [transmog] [info] client_side_only = false
+[2026-01-20 22:58:40.748] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7e3554dc8
+[2026-01-20 22:58:40.749] [transmog] [warning] Unknown singleton CSHkAiNvmRepository at 0x7ff7e3554dc8
+[2026-01-20 22:58:40.750] [transmog] [warning] Unknown singleton CSPanic at 0x7ff7e3566408
+[2026-01-20 22:58:40.751] [transmog] [warning] Unknown singleton CSTrophy at 0x7ff7e3d69478

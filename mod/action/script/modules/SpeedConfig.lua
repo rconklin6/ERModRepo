@@ -622,20 +622,18 @@ scactorspeed = 1
 function sc_Update()
     		--act(10000, 2, 6, scactorspeed, 0x190, 0x28, 0x17C8)
     if env(IsCOMPlayer) == FALSE then
-	g_DeltaRunTime = g_DeltaRunTime + (1 * (env(ObtainedDT) / 1000))
-    		act(10000, 0, 6, scgamespeed, 0x4589AD8, 0x2CC)
+		g_DeltaRunTime = g_DeltaRunTime + (1 * (env(ObtainedDT) / 1000))
+    	act(10000, 0, 6, scgamespeed, 0x4589AD8, 0x2CC)
 
-	if scload == 0 then
-	
-Move_onUpdate = Include(sc_movespeed, Move_onUpdate)
-Stealth_Move_onUpdate = Include(sc_sneakspeed, Stealth_Move_onUpdate)
-
-JumpCommonFunction = Include(sc_JumpCommonFunction, JumpCommonFunction)
-		scload = 1
-	end
+		if scload == 0 then
+			Move_onUpdate = Include(sc_movespeed, Move_onUpdate)
+			Stealth_Move_onUpdate = Include(sc_sneakspeed, Stealth_Move_onUpdate)
+			JumpCommonFunction = Include(sc_JumpCommonFunction, JumpCommonFunction)
+			scload = 1
+		end
     end
     if env(GetSpEffectID, 100003) == TRUE then
-        act(2001, 30)
+        act(2001, 3)
     end
 end
 function sc_JumpCommonFunction(jump_type)
