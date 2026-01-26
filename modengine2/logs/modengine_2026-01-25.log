@@ -324,3 +324,59 @@
 [2026-01-25 17:53:46.549] [modengine] [info] Destroying
 [2026-01-25 17:53:46.549] [modengine] [info] Destroying
 [2026-01-25 17:53:46.549] [modengine] [info] Destroying
+[2026-01-25 18:15:40.806] [modengine] [info] Attempting to load global config at C:\Program Files (x86)\ModEngine-2.1.0.0-win64\modengine2\config.toml
+[2026-01-25 18:15:40.806] [modengine] [info] Attempting to load mod settings config at C:\Program Files (x86)\ModEngine-2.1.0.0-win64\config_eldenring.toml
+[2026-01-25 18:15:40.807] [modengine] [info] Local config loaded
+[2026-01-25 18:15:40.807] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-01-25 18:15:40.807] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-01-25 18:15:40.807] [modengine] [info] Main thread ID: 42816
+[2026-01-25 18:15:40.809] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.dll
+[2026-01-25 18:15:40.810] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ermerchant.dll
+[2026-01-25 18:15:40.882] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\Scripts-Data-Exposer-FS.dll
+[2026-01-25 18:15:40.882] [modengine] [warning] External dll C:\Program Files (x86)\ModEngine-2.1.0.0-win64\Scripts-Data-Exposer-FS.dll at base address 0x7ffba0580000 is not a modengine extension
+[2026-01-25 18:15:40.882] [modengine] [info] Enabling extension base
+[2026-01-25 18:15:40.882] [modengine] [info] Enabled extension base
+[2026-01-25 18:15:40.882] [modengine] [info] Enabling extension mod_loader
+[2026-01-25 18:15:40.882] [modengine] [info] Installing mod location mod
+[2026-01-25 18:15:40.882] [modengine] [info] Resolved mod path to C:\Program Files (x86)\ModEngine-2.1.0.0-win64\mod
+[2026-01-25 18:15:40.882] [modengine] [info] Enabled extension mod_loader
+[2026-01-25 18:15:40.909] [modengine] [info] Applied 3 hooks
+[2026-01-25 18:15:40.910] [modengine] [info] Starting worker thread
+[2026-01-25 18:19:35.375] [modengine] [info] Destroying
+[2026-01-25 18:19:35.375] [modengine] [info] Destroying
+[2026-01-25 18:19:35.375] [modengine] [info] Destroying
+[2026-01-25 18:19:35.375] [modengine] [info] Destroying
+[2026-01-25 18:19:35.375] [modengine] [info] Destroying
+[2026-01-25 18:19:35.375] [modengine] [info] Destroying
+[2026-01-25 18:19:35.375] [modengine] [info] Destroying
+[2026-01-25 18:19:35.376] [modengine] [info] Destroying
+[2026-01-25 18:19:35.376] [modengine] [info] Destroying
+[2026-01-25 18:19:35.376] [modengine] [info] Destroying
+[2026-01-25 18:21:21.707] [modengine] [info] Attempting to load global config at C:\Program Files (x86)\ModEngine-2.1.0.0-win64\modengine2\config.toml
+[2026-01-25 18:21:21.707] [modengine] [info] Attempting to load mod settings config at C:\Program Files (x86)\ModEngine-2.1.0.0-win64\config_eldenring.toml
+[2026-01-25 18:21:21.707] [modengine] [info] Local config loaded
+[2026-01-25 18:21:21.707] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-01-25 18:21:21.707] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-01-25 18:21:21.707] [modengine] [info] Main thread ID: 9892
+[2026-01-25 18:21:21.710] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ertransmogrify.dll
+[2026-01-25 18:21:21.711] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\ermerchant.dll
+[2026-01-25 18:21:21.786] [modengine] [info] Loaded external DLL C:\Program Files (x86)\ModEngine-2.1.0.0-win64\Scripts-Data-Exposer-FS.dll
+[2026-01-25 18:21:21.786] [modengine] [warning] External dll C:\Program Files (x86)\ModEngine-2.1.0.0-win64\Scripts-Data-Exposer-FS.dll at base address 0x7ffba4f80000 is not a modengine extension
+[2026-01-25 18:21:21.786] [modengine] [info] Enabling extension base
+[2026-01-25 18:21:21.786] [modengine] [info] Enabled extension base
+[2026-01-25 18:21:21.786] [modengine] [info] Enabling extension mod_loader
+[2026-01-25 18:21:21.786] [modengine] [info] Installing mod location mod
+[2026-01-25 18:21:21.786] [modengine] [info] Resolved mod path to C:\Program Files (x86)\ModEngine-2.1.0.0-win64\mod
+[2026-01-25 18:21:21.786] [modengine] [info] Enabled extension mod_loader
+[2026-01-25 18:21:21.814] [modengine] [info] Applied 3 hooks
+[2026-01-25 18:21:21.815] [modengine] [info] Starting worker thread
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
+[2026-01-25 18:22:30.012] [modengine] [info] Destroying
