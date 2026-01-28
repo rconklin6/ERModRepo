@@ -3688,7 +3688,7 @@ function ii_JumpCommonFunction(jump_type)
 			act(TurnToLockonTargetImmediately, globaljumpangle)
 		else
 			if GetVariable("IsLockon") == true then
-				act(TurnToLockonTargetImmediately)
+				act(TurnToLockonTargetImmediately, globaljumpangle)
 				targettt = 1
 			else
 				act(LockonFixedAngleCancel)
