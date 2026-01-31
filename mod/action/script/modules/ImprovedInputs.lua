@@ -2489,7 +2489,8 @@ function ii_ExecEvasion(backstep_limit, estep, is_usechainrecover)
 				end
 
 				local turn_target_angle = 0
-				local jumpangle = env(GetRollAngle) * 0.009999999776482582
+				--local jumpangle = env(GetRollAngle) * 0.009999999776482582
+				local jumpangle = GetVariable("MoveAngle")
 				if jumpangle > -45 and jumpangle < 45 then
 					turn_target_angle = jumpangle
 					SetVariable("JumpDirection", 0)
@@ -2515,6 +2516,8 @@ function ii_ExecEvasion(backstep_limit, estep, is_usechainrecover)
 				if env(IsAIJumpRequested) == TRUE then
 					act(NotifyAIOfJumpState)
 				end
+
+				act(TurnToLockonTargetImmediately, globaljumpangle)
 
 				act(SetNpcAIAttackRequestIDAfterBlend, env(GetNpcAIAttackRequestID))
 				SetAIActionState()
@@ -3685,7 +3688,8 @@ end
 function ii_JumpCommonFunction(jump_type)
     if targettt == 0 then
 		if IS_ATTACKED_JUMPMAGIC == FALSE and GetVariable("JumpAttackForm") == 0 then
-			act(TurnToLockonTargetImmediately, globaljumpangle)
+			--act(TurnToLockonTargetImmediately, globaljumpangle)
+			targettt = 0
 		else
 			if GetVariable("IsLockon") == true then
 				act(TurnToLockonTargetImmediately, globaljumpangle)
