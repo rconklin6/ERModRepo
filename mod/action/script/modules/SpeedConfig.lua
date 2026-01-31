@@ -10,7 +10,7 @@ scheavyspeed = 1
 --overweight tier modifier
 scoverweightspeed = 1
 --sprint modifier
-scsprintspeed = 1.3
+scsprintspeed = 1.1
 --run/default modifier
 scrunspeed = 1
 --walk modifier
