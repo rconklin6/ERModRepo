@@ -2216,15 +2216,15 @@ function Dodge()
 
         local turn_angle_real = 200
 
-        if env(IsPrecisionShoot) == FALSE and env(IsCOMPlayer) == FALSE
-            or env(GetSpEffectID, 100002) == TRUE then
-            SetVariable("RollingOverweightIndex", 0)
-            if is_selfTrans == TRUE then
-                SetVariable("RollingDirectionIndex_SelfTrans", 0)
-            else
-                SetVariable("RollingDirectionIndex", 0)
-            end
-        elseif GetVariable("EvasionWeightIndex") == EVASION_WEIGHT_INDEX_OVERWEIGHT then
+        -- if env(IsPrecisionShoot) == FALSE and env(IsCOMPlayer) == FALSE
+            -- or env(GetSpEffectID, 100002) == TRUE then
+            -- SetVariable("RollingOverweightIndex", 0)
+            -- if is_selfTrans == TRUE then
+                -- SetVariable("RollingDirectionIndex_SelfTrans", 0)
+            -- else
+                -- SetVariable("RollingDirectionIndex", 0)
+            -- end
+        if GetVariable("EvasionWeightIndex") == EVASION_WEIGHT_INDEX_OVERWEIGHT then
             if RollingAngle <= 45 and RollingAngle >= -45 then
                 SetVariable("RollingOverweightIndex", 0)
             elseif RollingAngle > 45 and RollingAngle < 135 then
@@ -2658,7 +2658,8 @@ function ii_ExecJump()
         if env(GetFallHeight) > 150 then
             return FALSE
         end
-    if GetVariable("MoveSpeedLevel") < 0.06 then
+	-- disable backstep entirely -- Russell
+    if GetVariable("MoveSpeedLevel") < 0.06 and false then
 		--if env(ActionDuration, ACTION_ARM_ACTION) > 0 then
 
 			--act(2002, 81)
