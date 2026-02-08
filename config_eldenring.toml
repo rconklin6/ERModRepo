@@ -14,8 +14,8 @@ debug = false
 external_dlls = [
 	"ertransmogrify.dll",
 	"ermerchant.dll",
-	"Scripts-Data-Exposer-FS.dll",
-	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game\\SeamlessCoop\\ersc.dll"
+	"Scripts-Data-Exposer-FS.dll"
+	#"C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game\\SeamlessCoop\\ersc.dll"
 ]
 
 # Mod loader configuration
